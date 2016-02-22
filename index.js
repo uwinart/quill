@@ -1,1 +1,1 @@
-module.exports = require('./dist/quill');
+module.exports = require('./dists/quill');
